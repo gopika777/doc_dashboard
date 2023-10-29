@@ -1,0 +1,15 @@
+body{
+    background-image:url("https://st2.depositphotos.com/1907633/6794/i/600/depositphotos_67945249-stock-photo-medicine-doctor-hand-working-with.jpg");
+    background-size: cover;
+}
+
+.card{
+    margin:10px;
+    margin-top: 100px;
+    margin-left: 750px;
+    margin-right: 50px;
+    position: center;
+    object-fit: cover;
+
+
+}
